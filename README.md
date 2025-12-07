@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/maviyauddin/nn-from-scratch-mnist/blob/main/Image.png?raw=true" width="100%" />
+</p>
+
+
+https://github.com/maviyauddin/nn-from-scratch-mnist/blob/main/Image.png?raw=true
 # Neural Network From Scratch (NumPy Only) – MNIST Digit Classification
 
 This project implements a fully-connected neural network **from scratch** using only **NumPy** (no TensorFlow, no PyTorch).  
