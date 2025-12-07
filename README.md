@@ -223,17 +223,21 @@ fit, predict, evaluate methods
 
 10. About Me
 
-I am an aspiring Data Scientist / Machine Learning Engineer with strong interest in:
+## 👨‍💻 About Me
 
-Deep learning fundamentals
+I am an aspiring **Data Scientist / Machine Learning Engineer** with strong interest in building intelligent systems from the ground up. I enjoy understanding how models work internally — from mathematical intuition to full implementation.
 
-Building models from scratch
+My focus areas include:
 
-Working with real-world datasets
+- Applied Machine Learning  
+- Deep Learning fundamentals  
+- Neural networks from scratch  
+- Data analysis & feature engineering  
+- Model evaluation and optimization  
 
-ML engineering and model deployment
+I’m actively preparing for roles in **Data Science, ML Engineering, and AI Engineering**, where I can apply both practical skills and deep conceptual understanding.
 
-I’m actively looking for opportunities in Data Science / Machine Learning / AI Engineer roles.
+I love working on projects that challenge me to learn faster and think like an engineer. Always open to collaborations, opportunities, and real-world ML projects.
 
 
 
